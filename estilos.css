@@ -1,0 +1,25 @@
+.contenedor {
+    max-width: 1200px;
+}
+
+.contenedor-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-menu {
+    margin-left: 25px;
+}
+
+.menu {
+    padding: 0;
+    display: flex;
+    list-style: none;
+    margin-right: 25px;
+}
+
+.header-url {
+    padding: 0 10px;
+    text-decoration: none;
+}
